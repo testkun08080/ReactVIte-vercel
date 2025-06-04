@@ -1,5 +1,5 @@
 # 概要
-React + Vite( + tailwind)をvercel上までホスティングするまでの流れと、サンプルデータです。
+React + Vite(+tailwind)をvercel上までホスティングするまでの流れと、サンプルデータです。
 
 
 ## 事前インストール必要なもの
