@@ -4,7 +4,7 @@ React + Vite( + tailwind)をvercel上までホスティングするまでの流�
 
 ## 事前インストール必要なもの
 
-- npm node.js20+ react19
+- npm Node.js 20+ (インストールは[こちら](https://nodejs.org/en/download/))
 - Vercel CLI (インストールは[こちら](https://vercel.com/docs/cli#installing-vercel-cli/))
 
 
