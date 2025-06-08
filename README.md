@@ -1,6 +1,13 @@
 # 概要
 React + Vite(+tailwind)をvercel上までホスティングするまでの流れと、サンプルデータです。
 
+#### テンプレートを使って、とりあえずデプロイしたい方
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/testkun08080/ReactVite-vercel)
+
+#### サンプルページ
+https://react-vite-vercel-ten.vercel.app/
+
 
 ## 事前インストール必要なもの
 
