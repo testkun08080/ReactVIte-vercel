@@ -34,7 +34,7 @@ https://react-vite-vercel-ten.vercel.app/
     npm run dev
    ```
 
-## Vercel CLI を使ってテストからデプロイ/ホスティングまで
+## Vercel CLI を使ってテストからデプロイ
 
 1. **ローカル起動**
    以下コマンドを叩いて、ルートを選ぶ際に'app'と入力してください。
