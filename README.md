@@ -25,7 +25,7 @@ https://react-vite-vercel-ten.vercel.app/
 
 2. **仮想環境の構築**
     ```bash
-    cd ReactVite-vercel
+    cd ReactVite-vercel/app
     npm install
    ```
 3. **ローカル起動**
