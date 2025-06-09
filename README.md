@@ -28,21 +28,21 @@ https://react-vite-vercel-ten.vercel.app/
     cd ReactVite-vercel/app
     npm install
    ```
-3. **ローカル起動**
+3. **ローカル起動**  
    以下コマンドを叩いて、ブラウザで<http://localhost:3000>確認できるはずです。
     ```bash
     npm run dev
    ```
 
 ## Vercel CLI を使ってテストからデプロイ
-
-1. **ローカル起動**
-   app階層にターミナルが移動していること路確認してください。
-   あとはお好きなプロジェクト名などに適宜変えてください。
+1. **ローカル起動**  
+   app階層にターミナルが移動していること路確認してください。  
+   あとはお好きなプロジェクト名などに適宜変えてください。  
    以下のように順調に進めば、ブラウザで<http://localhost:3000>確認できるはずです。
+   
     ```bash
     vercel dev
-   ```
+    ```
    以下ターミナルのサンプル表示
     ```bash
     YOURUSERNAME ReactVIte-vercel % vercel dev
@@ -70,12 +70,12 @@ https://react-vite-vercel-ten.vercel.app/
    > Ready! Available at http://localhost:3000
       ```
 
-2. **vercelへデプロイ（プレビューとして）**
+3. **vercelへデプロイ（プレビューとして）**
     ```bash
     vercel
    ```
 
-3. **、vercelへデプロイ（プロダクトとして）**
+4. **vercelへデプロイ（プロダクトとして）**
     ```bash
     vercel --prod
    ```
