@@ -41,7 +41,7 @@ export const LogoSamples = () => {
       <div className="text-center">
         <h1 className="text-3xl font-bold">
           <p class="bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-5xl font-extrabold text-transparent">
-            Vite + React + FastAPI + TailWind
+            Vite + React + TailWind
           </p>
         </h1>
 
